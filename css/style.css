@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.section-one__menu{
+    color: skyblue;
+}
+.section-three{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.section-three__form{
+   align-content: center;
+}
+.section-two__card{
+    height: 400px;
+    width: 200px;
+    margin: 20px;
+    background-color: white;
+    border: 2px solid black;
+    display: inline-block;
+}
+.section-two__description,.section-two__title,.section-two{
+    text-align: center;
+}
+.section-two__button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+.section-three__form{
+    display: inline-table;
+}
+
+.section-three{
+    text-align: center;
+}
+.section-three__button__send{
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    border-style: none;
+    padding-left: 115px;
+    padding-right: 115px;
+}
